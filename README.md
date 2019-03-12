@@ -1,7 +1,7 @@
 # outlook
 Analysis  and reflection about NGO sectors in Taiwan
 
-## 台灣公民社會總體報告與産業現況分析
+## 台灣公民社會總體報告與非營利部門現況呈現
 (唬濫用)
 
 #### 協作發佈平台
